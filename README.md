@@ -8,9 +8,10 @@ mvn package
 
 # Run
 
-'''
+Run on default port:
+```
 java -jar sleep-servlet-1.0-SNAPSHOT.jar
-'''
+```
 
 # Consume
 
