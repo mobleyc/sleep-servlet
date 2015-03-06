@@ -9,7 +9,9 @@ mvn package
 # Examples
 
 Sleep using default values
-    curl http://localhost:8080/sleep
+```
+curl http://localhost:8080/sleep
+```
 
 Sleep for 1 second
     curl http://localhost:8080/sleep?millis=1000
